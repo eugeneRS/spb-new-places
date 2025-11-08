@@ -1,1 +1,123 @@
-[]
+[
+  {
+    "name": "Купить журнал:",
+    "type": "кафе",
+    "address": "Санкт-Петербург",
+    "lat": 59.9387,
+    "lng": 30.3162,
+    "isoDate": "2025-11-08",
+    "displayDate": "08 November 2025",
+    "desc": "Новое открытие!",
+    "link": "https://www.sobaka.ru/bars/opening"
+  },
+  {
+    "name": "Отправка сообщения об ошибке",
+    "type": "кафе",
+    "address": "Санкт-Петербург",
+    "lat": 59.9387,
+    "lng": 30.3162,
+    "isoDate": "2025-11-08",
+    "displayDate": "08 November 2025",
+    "desc": "Новое открытие!",
+    "link": "https://www.sobaka.ru/bars/opening"
+  },
+  {
+    "name": "Открывающиеся рестораны в СПб",
+    "type": "ресторан",
+    "address": "Санкт-Петербург",
+    "lat": 59.9387,
+    "lng": 30.3162,
+    "isoDate": "2025-11-08",
+    "displayDate": "08 November 2025",
+    "desc": "Новое открытие!",
+    "link": "https://www.restoclub.ru/spb/search/novie-restorany-cafe-i-bary-v-peterburge"
+  },
+  {
+    "name": "Недавно открывшиеся рестораны и кафе",
+    "type": "ресторан",
+    "address": "Санкт-Петербург",
+    "lat": 59.9387,
+    "lng": 30.3162,
+    "isoDate": "2025-11-08",
+    "displayDate": "08 November 2025",
+    "desc": "Новое открытие!",
+    "link": "https://www.restoclub.ru/spb/search/novie-restorany-cafe-i-bary-v-peterburge"
+  },
+  {
+    "name": "Войти на сайт",
+    "type": "кафе",
+    "address": "Санкт-Петербург",
+    "lat": 59.9387,
+    "lng": 30.3162,
+    "isoDate": "2025-11-08",
+    "displayDate": "08 November 2025",
+    "desc": "Новое открытие!",
+    "link": "https://www.restoclub.ru/spb/search/novie-restorany-cafe-i-bary-v-peterburge"
+  },
+  {
+    "name": "Регистрация",
+    "type": "кафе",
+    "address": "Санкт-Петербург",
+    "lat": 59.9387,
+    "lng": 30.3162,
+    "isoDate": "2025-11-08",
+    "displayDate": "08 November 2025",
+    "desc": "Новое открытие!",
+    "link": "https://www.restoclub.ru/spb/search/novie-restorany-cafe-i-bary-v-peterburge"
+  },
+  {
+    "name": "Восстановление пароля",
+    "type": "кафе",
+    "address": "Санкт-Петербург",
+    "lat": 59.9387,
+    "lng": 30.3162,
+    "isoDate": "2025-11-08",
+    "displayDate": "08 November 2025",
+    "desc": "Новое открытие!",
+    "link": "https://www.restoclub.ru/spb/search/novie-restorany-cafe-i-bary-v-peterburge"
+  },
+  {
+    "name": "Регистрация",
+    "type": "кафе",
+    "address": "Санкт-Петербург",
+    "lat": 59.9387,
+    "lng": 30.3162,
+    "isoDate": "2025-11-08",
+    "displayDate": "08 November 2025",
+    "desc": "Новое открытие!",
+    "link": "https://www.restoclub.ru/spb/search/novie-restorany-cafe-i-bary-v-peterburge"
+  },
+  {
+    "name": "Отметки «Нравится»",
+    "type": "кафе",
+    "address": "Санкт-Петербург",
+    "lat": 59.9387,
+    "lng": 30.3162,
+    "isoDate": "2025-11-08",
+    "displayDate": "08 November 2025",
+    "desc": "Новое открытие!",
+    "link": "https://www.restoclub.ru/spb/search/novie-restorany-cafe-i-bary-v-peterburge"
+  },
+  {
+    "name": "Ваш новый пароль",
+    "type": "кафе",
+    "address": "Санкт-Петербург",
+    "lat": 59.9387,
+    "lng": 30.3162,
+    "isoDate": "2025-11-08",
+    "displayDate": "08 November 2025",
+    "desc": "Новое открытие!",
+    "link": "https://www.restoclub.ru/spb/search/novie-restorany-cafe-i-bary-v-peterburge"
+  },
+  {
+    "name": "Вы из Петербурга?",
+    "type": "кафе",
+    "address": "Санкт-Петербург",
+    "lat": 59.9387,
+    "lng": 30.3162,
+    "isoDate": "2025-11-08",
+    "displayDate": "08 November 2025",
+    "desc": "Новое открытие!",
+    "link": "https://www.restoclub.ru/spb/search/novie-restorany-cafe-i-bary-v-peterburge"
+  }
+]
