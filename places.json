@@ -31,7 +31,7 @@
     "lng": 30.3200,
     "isoDate": "2025-10-20",
     "displayDate": "20 октября 2025",
-    "desc": "Коктейли и закуски в фойе ЖК Familia.",
+    "desc": "Коктейли и закуски в ЖК Familia.",
     "link": "https://gdebar.ru/spb/place/the-lobby-bar",
     "photo": "https://gdebar.ru/media/the-lobby-bar.jpg"
   },
@@ -82,5 +82,41 @@
     "desc": "Авторская кухня: европейская с азиатскими мотивами.",
     "link": "https://gdebar.ru/spb/place/buro-bistro",
     "photo": "https://gdebar.ru/media/buro-bistro-interior.jpg"
+  },
+  {
+    "name": "Aloë",
+    "type": "ресторан",
+    "address": "ул. Большая Морская, 45",
+    "lat": 59.9340,
+    "lng": 30.3200,
+    "isoDate": "2025-10-01",
+    "displayDate": "1 октября 2025",
+    "desc": "Северная кухня с Michelin-шефом Дэниелом Хогландером.",
+    "link": "https://media.s7.ru/ru/blog/new-gastronomic-places-in-st-petersburg",
+    "photo": "https://media.s7.ru/media/aloe-interior.jpg"
+  },
+  {
+    "name": "Дом 12",
+    "type": "ресторан",
+    "address": "Новая Голландия, 12",
+    "lat": 59.9415,
+    "lng": 30.3070,
+    "isoDate": "2025-10-15",
+    "displayDate": "15 октября 2025",
+    "desc": "Морепродукты и суши в Новой Голландии.",
+    "link": "https://www.sobaka.ru/bars/opening",
+    "photo": "https://www.sobaka.ru/media/dom-12-interior.jpg"
+  },
+  {
+    "name": "Inner",
+    "type": "ресторан",
+    "address": "ул. Большая Конюшенная, 27",
+    "lat": 59.9390,
+    "lng": 30.3230,
+    "isoDate": "2025-11-01",
+    "displayDate": "1 ноября 2025",
+    "desc": "Ресторан о личном: воспоминания, эмоции, красота.",
+    "link": "https://robb.report/impression/95467-9-restoranov-i-barov-sankt-peterburga-kotorye-nujno-posetit-etoi-vesnoi",
+    "photo": "https://robb.report/media/inner-interior.jpg"
   }
 ]
