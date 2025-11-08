@@ -19,7 +19,7 @@
     #map{flex:1;min-height:0;background:#ddd}
     footer{padding:8px;text-align:center;font-size:12px;color:#888;background:#fff;border-top:1px solid #ddd}
     #s{font-size:12px;color:#666}
-    .popup-photo {max-width:100%;height:auto;margin-bottom:8px;border-radius:4px}
+    .popup-photo {max-width:250px;height:auto;margin-bottom:8px;border-radius:4px}
     .popup-link {margin-top:8px}
     .popup-link a {color:#e91e63;text-decoration:underline;font-size:12px}
   </style>
@@ -71,10 +71,10 @@
         const icon = L.divIcon({html:`<div style="background:#e91e63;color:#fff;width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:bold;box-shadow:0 2px 8px rgba(0,0,0,.4)">${p.type[0].toUpperCase()}</div>`,iconSize:[34,34]});
         const marker = L.marker([p.lat, p.lng], {icon}).addTo(m);
         const badge = (now - new Date(p.isoDate)) / 86400000 <= 7 ? '<span style="background:#ff385c;color:#fff;padding:2px 6px;border-radius:4px;font-size:10px;margin-left:4px">NEW</span>' : '';
-        const photoHtml = p.photo ? `<img src="${p.photo}" class="popup-photo" alt="Интерьер">` : '';
+        const photoHtml = p.photo ? `<img src="${p.photo}" class="popup-photo" alt="Интерьер" onerror="this.style.display='none'">` : '';
         const linkHtml = p.link ? `<div class="popup-link"><a href="${p.link}" target="_blank">Сайт заведения</a></div>` : '';
         marker.bindPopup(`
-          <div style="font-family:system-ui">
+          <div style="font-family:system-ui;width:250px">
             <div style="font-weight:600;margin-bottom:4px">${p.name} ${badge}</div>
             <div style="font-size:13px;color:#888;margin-bottom:4px">${p.type} • ${p.address}</div>
             <div style="color:#4caf50;font-size:12px;margin-bottom:6px">Открыто: ${p.displayDate}</div>
