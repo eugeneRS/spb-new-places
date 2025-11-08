@@ -7,9 +7,8 @@
     "lng": 30.2898,
     "isoDate": "2024-10-28",
     "displayDate": "28 октября 2024",
-    "desc": "Французский камерный бар с коктейлями и закусками. Уютное место на Петроградке.",
-    "link": "https://www.restoclub.ru/spb/place/roots-1",
-    "photo": "https://www.restoclub.ru/sites/default/files/styles/1200x800/public/2024-10/roots-le-petit-bar-1.jpg"
+    "desc": "Французский камерный бар с коктейлями и закусками.",
+    "link": "https://sobaka.ru/bars/roots-le-petit-bar"
   },
   {
     "name": "Ле Бистро Де Ла Ферм",
@@ -19,21 +18,19 @@
     "lng": 30.3167,
     "isoDate": "2024-10-20",
     "displayDate": "20 октября 2024",
-    "desc": "Французская фермерская кухня: омлет, судак. Открыл француз Оливье Робер.",
-    "link": "https://www.restoclub.ru/spb/place/le-bistro-de-la-ferm",
-    "photo": "https://www.restoclub.ru/sites/default/files/styles/1200x800/public/2024-10/le-bistro-de-la-ferm.jpg"
+    "desc": "Французская фермерская кухня от Оливье Робера.",
+    "link": "https://restoclub.ru/spb/place/le-bistro-de-la-ferm"
   },
   {
     "name": "Ингрия",
     "type": "ресторан",
-    "address": "наб. Реки Смоленки, 14, лит. А",
+    "address": "наб. Реки Смоленки, 14",
     "lat": 59.9432,
     "lng": 30.2570,
     "isoDate": "2024-10-15",
     "displayDate": "15 октября 2024",
-    "desc": "Северная кухня с локальными продуктами: дичь, сезонные супы.",
-    "link": "https://spb.allcafe.ru/place/ingriya",
-    "photo": "https://spb.allcafe.ru/images/ingriya-interior.jpg"
+    "desc": "Северная кухня с локальными продуктами.",
+    "link": "https://spb.allcafe.ru/place/ingriya"
   },
   {
     "name": "The Legends",
@@ -43,9 +40,8 @@
     "lng": 30.3281,
     "isoDate": "2024-10-10",
     "displayDate": "10 октября 2024",
-    "desc": "Рок-бар с джемами, бургерами и американской кухней. Живая музыка.",
-    "link": "https://www.restoclub.ru/spb/place/the-legends",
-    "photo": "https://www.restoclub.ru/sites/default/files/styles/1200x800/public/2024-10/the-legends-bar.jpg"
+    "desc": "Рок-бар с джемами и бургерами.",
+    "link": "https://chef.ru/place/the-legends"
   },
   {
     "name": "Nonino Secret",
@@ -55,9 +51,8 @@
     "lng": 30.3500,
     "isoDate": "2024-10-30",
     "displayDate": "30 октября 2024",
-    "desc": "Секретный бар с коктейлями на граппе. Скрытый вход, атмосфера 1920-х.",
-    "link": "https://www.restoclub.ru/spb/place/nonino-secret-room",
-    "photo": "https://www.restoclub.ru/sites/default/files/styles/1200x800/public/2024-10/nonino-secret-room.jpg"
+    "desc": "Секретный бар с коктейлями на граппе.",
+    "link": "https://restoclub.ru/spb/place/nonino-secret-room"
   },
   {
     "name": "HOOKAH PLACE",
@@ -67,9 +62,8 @@
     "lng": 30.3600,
     "isoDate": "2024-11-05",
     "displayDate": "5 ноября 2024",
-    "desc": "Премиум кальян с редкими смесями. Комфортные зоны.",
-    "link": "https://hookahlocator.ru/kalyannie/spb/hpspb",
-    "photo": "https://hookahlocator.ru/images/hookahplace-spb.jpg"
+    "desc": "Премиум кальян с редкими смесями.",
+    "link": "https://hookahplace.ru"
   },
   {
     "name": "Tito Bistro",
@@ -79,9 +73,8 @@
     "lng": 30.3452,
     "isoDate": "2024-10-25",
     "displayDate": "25 октября 2024",
-    "desc": "Грузинско-итальянская кухня: хачапури, пицца.",
-    "link": "https://www.restoclub.ru/spb/place/tito",
-    "photo": "https://www.restoclub.ru/sites/default/files/styles/1200x800/public/2024-10/tito-bistro.jpg"
+    "desc": "Грузинско-итальянская кухня.",
+    "link": "https://edagda.ru/spb/tito-bistro"
   },
   {
     "name": "Morii",
@@ -91,9 +84,8 @@
     "lng": 30.3601,
     "isoDate": "2024-10-18",
     "displayDate": "18 октября 2024",
-    "desc": "Гастрономия с винами: сезонные меню, локальные продукты.",
-    "link": "https://www.restoclub.ru/spb/place/morii",
-    "photo": "https://www.restoclub.ru/sites/default/files/styles/1200x800/public/2024-10/morii-restaurant.jpg"
+    "desc": "Гастрономия с винами.",
+    "link": "https://restoclub.ru/spb/place/morii"
   },
   {
     "name": "Salty",
@@ -103,9 +95,8 @@
     "lng": 30.3652,
     "isoDate": "2024-11-03",
     "displayDate": "3 ноября 2024",
-    "desc": "Морепродукты: устрицы, крабы. Средиземноморская тематика.",
-    "link": "https://tomesto.ru/spb/places/salty",
-    "photo": "https://tomesto.ru/media/salty-interior.jpg"
+    "desc": "Морепродукты: устрицы, крабы.",
+    "link": "https://sobaka.ru/bars/salty"
   },
   {
     "name": "Leopold Brasserie & Pub",
@@ -115,21 +106,19 @@
     "lng": 30.3440,
     "isoDate": "2024-11-01",
     "displayDate": "1 ноября 2024",
-    "desc": "Бельгийская брассерия: moules-frites, пиво.",
-    "link": "https://www.restoclub.ru/spb/place/leopold-2",
-    "photo": "https://www.restoclub.ru/sites/default/files/styles/1200x800/public/2024-11/leopold-brasserie.jpg"
+    "desc": "Бельгийская брассерия.",
+    "link": "https://restoclub.ru/spb/place/leopold"
   },
   {
     "name": "Эссенция",
     "type": "ресторан",
-    "address": "Московский просп., 206",
+    "address": "Московский пр., 206",
     "lat": 59.8521,
     "lng": 30.3185,
     "isoDate": "2024-11-01",
     "displayDate": "1 ноября 2024",
-    "desc": "Молекулярная кухня: инновационные блюда, дегустации.",
-    "link": "https://gastronom.ru/place/essentsiya",
-    "photo": "https://gastronom.ru/media/essentsiya-interior.jpg"
+    "desc": "Молекулярная кухня.",
+    "link": "https://gastronom.ru/place/essentsiya"
   },
   {
     "name": "Текстура",
@@ -139,9 +128,8 @@
     "lng": 30.2990,
     "isoDate": "2024-10-29",
     "displayDate": "29 октября 2024",
-    "desc": "Художественная студия-кафе с кофе и десертами.",
-    "link": "https://2gis.ru/spb/firm/70000001046566364",
-    "photo": "https://2gis.ru/images/tekstura-cafe.jpg"
+    "desc": "Художественная студия-кафе.",
+    "link": "https://edagda.ru/spb/tekstura"
   },
   {
     "name": "Винный факультет",
@@ -151,9 +139,8 @@
     "lng": 30.2985,
     "isoDate": "2024-10-22",
     "displayDate": "22 октября 2024",
-    "desc": "Винный бар с дегустациями и лекциями.",
-    "link": "https://www.restoclub.ru/spb/place/vinnyj-fakultet",
-    "photo": "https://www.restoclub.ru/sites/default/files/styles/1200x800/public/2024-10/vinnyy-fakultet-bar.jpg"
+    "desc": "Винный бар с дегустациями.",
+    "link": "https://sobaka.ru/bars/vinnyy-fakultet"
   },
   {
     "name": "Китайский бар в Доме Мурузи",
@@ -163,9 +150,8 @@
     "lng": 30.3480,
     "isoDate": "2024-11-01",
     "displayDate": "1 ноября 2024",
-    "desc": "Китайская закуска и коктейли в музее Бродского.",
-    "link": "https://spb.vedomosti.ru/business/news/2023/10/23/1002029-peterburgskii-muzei-brodskogo-otkroet-bar-kitaiskii-restoran-v-dome-muruzi",
-    "photo": "https://spb.vedomosti.ru/media/dom-muruzi-bar.jpg"
+    "desc": "Китайская закуска в музее Бродского.",
+    "link": "https://sobaka.ru/bars/dom-muruzi"
   },
   {
     "name": "FRANK",
@@ -175,9 +161,8 @@
     "lng": 30.3450,
     "isoDate": "2024-10-18",
     "displayDate": "18 октября 2024",
-    "desc": "Реберная с американской кухней: стейки, бургеры.",
-    "link": "https://www.restoclub.ru/spb/place/frank-1",
-    "photo": "https://www.restoclub.ru/sites/default/files/styles/1200x800/public/2024-10/frank-rib.jpg"
+    "desc": "Реберная с американской кухней.",
+    "link": "https://restoclub.ru/spb/place/frank"
   },
   {
     "name": "Detstvo Play Cafe",
@@ -185,11 +170,10 @@
     "address": "ул. Марата, 10",
     "lat": 59.9305,
     "lng": 30.3530,
-    "isoDate": "2024-11-05",
-    "displayDate": "5 ноября 2024",
-    "desc": "Семейное кафе с игровыми зонами для детей.",
-    "link": "https://kudarf.ru/szfo/sankt-peterburg/detskie-kafe.html",
-    "photo": "https://kudarf.ru/media/detstvo-play-cafe.jpg"
+  "isoDate": "2024-11-05",
+  "displayDate": "5 ноября 2024",
+  "desc": "Семейное кафе с играми.",
+  "link": "https://restoclub.ru/spb/place/detstvo-play-cafe"
   },
   {
     "name": "Cyber El",
@@ -199,9 +183,8 @@
     "lng": 30.3355,
     "isoDate": "2024-11-08",
     "displayDate": "8 ноября 2024",
-    "desc": "Кибер-бар с VR и коктейлями. Тематика 80-х.",
-    "link": "https://restoclub.ru/spb/place/cyber-el",
-    "photo": "https://restoclub.ru/media/cyber-el-bar.jpg"
+    "desc": "Кибер-бар с VR.",
+    "link": "https://restoclub.ru/spb/place/cyber-el"
   },
   {
     "name": "Луч",
@@ -211,8 +194,7 @@
     "lng": 30.3450,
     "isoDate": "2024-11-01",
     "displayDate": "1 ноября 2024",
-    "desc": "Коктейльный бар с авторскими напитками.",
-    "link": "https://2gis.ru/spb/firm/70000001045467813",
-    "photo": "https://2gis.ru/images/luch-bar.jpg"
+    "desc": "Коктейльный бар.",
+    "link": "https://2gis.ru/spb/firm/70000001045467813"
   }
 ]
